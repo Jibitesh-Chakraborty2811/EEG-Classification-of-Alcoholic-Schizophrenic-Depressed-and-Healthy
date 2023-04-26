@@ -1,0 +1,1 @@
+# EEG-Classification-of-Alcoholic-Schizophrenic-Depressed-and-Healthy
